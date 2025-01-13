@@ -3,7 +3,7 @@ bundle:
   name: medium_post_report
 
 workspace:
-  host: https://Databricks-CICD.cloud.databricks.com/
+  host: https://adb-884372327358517.17.azuredatabricks.net
 
 resources:
 
