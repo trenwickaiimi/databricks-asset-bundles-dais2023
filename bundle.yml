@@ -3,7 +3,7 @@ bundle:
   name: medium_post_report
 
 workspace:
-  host: https://e2-dogfood.staging.cloud.databricks.com/
+  host: https://Databricks-CICD.cloud.databricks.com/
 
 resources:
 
